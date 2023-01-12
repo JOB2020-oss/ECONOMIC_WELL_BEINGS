@@ -1,1 +1,1 @@
-# ECONOMIC_WELL_BEINGS
+Economic well being was the task given concerning the analysis of the poverty level in South Africa based on the data provided from numerous houses during the house hold survey conducted. The final task was to develop the model that will probably estimate the level of poverty. On the approach the 
